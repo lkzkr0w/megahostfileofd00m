@@ -8,5 +8,6 @@ NSABlocklist© project original created under the MIT license 2015 by [CHEF-KOCH
 
 [![Say Thanks to CHEF-KOCH (the original creator of list)!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/CHEF-KOCH)
 
+Cauchon's repo: https://github.com/Cauchon/NSABlocklist-pi-hole-edition/
 
 Dan Pollock's original document: https://someonewhocares.org/hosts/
