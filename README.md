@@ -1,5 +1,5 @@
 # megahostfileofd00m
-A sorted and edited hostsfile taking info from Dan Pollock's file found at someonewhocares.org and a fork of the CHEF-KOCH list from Cauchon. I made this for my own use but I think some people will find it useful too.
+A sorted and edited hosts file taking info from Dan Pollock's file found at someonewhocares.org and a fork of the CHEF-KOCH list from Cauchon. I made this for my own use but I think some people will find it useful too.
 
 The editing I did was adding the 127.0.0.1 address to the lines that where lacking it, sorting and merging of the files and the removal of duplicates and potentially conflicting domains (those that started with a # in Dan Pollock's hostsfile)
 
